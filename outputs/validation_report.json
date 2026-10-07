@@ -1,0 +1,32 @@
+{
+  "time_fold_Jul-Aug": {
+    "MAE": 49.7,
+    "MAPE": 2.12,
+    "RMSE": 71.2
+  },
+  "time_fold_Sep-Oct": {
+    "MAE": 43.5,
+    "MAPE": 1.92,
+    "RMSE": 63.5
+  },
+  "time_fold_Oct": {
+    "MAE": 42.6,
+    "MAPE": 1.91,
+    "RMSE": 61.0
+  },
+  "city_holdout": {
+    "MAE": 64.5,
+    "MAPE": 2.53,
+    "RMSE": 93.6
+  },
+  "city_holdout_cities": [
+    "Jacksonville",
+    "Las Vegas",
+    "Little Rock",
+    "Los Angeles",
+    "Mobile",
+    "New Orleans",
+    "Oklahoma City",
+    "Tucson"
+  ]
+}
